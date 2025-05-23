@@ -6,7 +6,7 @@ from spider.secer import SecEdgerAsync
 async def main():
     print("Running SEC Edger....")
     # APPLE INC
-    await SecEdgerAsync(companyName="Tesla")
+    await SecEdgerAsync(companyName="NFLX")
 
 
 if __name__ == "__main__":
