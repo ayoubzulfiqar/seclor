@@ -1,1 +1,14 @@
 playwright
+pymupd
+pymupdf4llm
+camelot
+requests
+camelot-py[all]
+pdfplumber
+PyMuPDF
+pandas
+transformers
+sentence-transformers
+Jinja2
+lxml
+arelle

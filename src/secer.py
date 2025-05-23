@@ -7,8 +7,6 @@ from playwright.async_api import async_playwright
 
 from config import loadEnv
 
-# URL: str = "https://www.sec.gov/edgar/search/#"
-
 loadEnv()
 url = os.getenv("URL")
 print(url)
