@@ -1,6 +1,6 @@
 import asyncio
 
-from spider.secer import SecEdgerAsync
+from secer import SecEdgerAsync
 
 
 async def main():
